@@ -29,5 +29,5 @@ pip install -r requirements.txt
 
 ##  Aperçu du Benchmark
 
-![Aperçu](captures/newplot.png)
+![Aperçu](newplot.png)
 
