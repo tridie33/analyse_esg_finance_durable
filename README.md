@@ -27,3 +27,7 @@ Analyse statistique approfondie des performances ESG d'entreprises cotées avec 
 pip install -r requirements.txt
 ```
 
+##  Aperçu du Benchmark
+
+![Aperçu](captures/newplot.png)
+
