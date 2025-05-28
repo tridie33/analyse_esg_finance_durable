@@ -1,5 +1,10 @@
 # Analyse ESG et Modélisation Prédictive en Finance Durable
 
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-green)
+![Plotly](https://img.shields.io/badge/Plotly-Interactive-red)
+
+
 ## Description
 Analyse statistique approfondie des performances ESG d'entreprises cotées avec développement de modèles prédictifs pour l'évaluation des critères environnementaux, sociaux et de gouvernance.
 
@@ -21,7 +26,4 @@ Analyse statistique approfondie des performances ESG d'entreprises cotées avec 
 ```bash
 pip install -r requirements.txt
 ```
-![Python](https://img.shields.io/badge/Python-3.8+-blue)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-green)
-![Plotly](https://img.shields.io/badge/Plotly-Interactive-red)
+
